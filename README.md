@@ -3,7 +3,7 @@
 Acesse o [Curso em Vídeo](https://cursoemvideo.com) caso queira fazer o curso também :)
 
 ***
-##Completed Levels
+## Completed Levels
 Níveis completados
 - [x] Mundo 1
     - [X] Todas as aulas assistidas
@@ -14,9 +14,9 @@ Níveis completados
     - [X] Todos os exercícios realizados
     - [X] Certificado do Mundo 2
 - [X] Mundo 3
-    - [] Todas as aulas assistidas
-    - [] Todos os exercícios realizados
-    - [] Certificado do Mundo 3
+    - [ ] Todas as aulas assistidas
+    - [ ] Todos os exercícios realizados
+    - [ ] Certificado do Mundo 3
 ***
 Nível | Aulas | Exercícios
 ---- | --- | ---
