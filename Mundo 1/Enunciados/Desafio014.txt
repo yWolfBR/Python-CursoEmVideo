@@ -1,0 +1,1 @@
+Escreva um programa que converta uma temperatura digitando C° e convertendo para °F.
