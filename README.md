@@ -1,6 +1,6 @@
 ### Esse é meu repositório de exercícios feitos durante o curso de __Python3__
 
-Acesse o [Curso em Vídeo](https://cursoemvideo.com) caso queira fazer o curso também :)
+Acesse o [Curso em Vídeo](https://www.cursoemvideo.com) caso queira fazer o curso também :)
 
 ***
 ## Completed Levels
