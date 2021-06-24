@@ -14,12 +14,12 @@ Níveis completados
     - [X] Todos os exercícios realizados
     - [X] Certificado do Mundo 2
 - [X] Mundo 3
-    - [ ] Todas as aulas assistidas
-    - [ ] Todos os exercícios realizados
-    - [ ] Certificado do Mundo 3
+    - [x] Todas as aulas assistidas
+    - [x] Todos os exercícios realizados
+    - [x] Certificado do Mundo 3
 ***
 Nível | Aulas | Exercícios
 ---- | --- | ---
 Mundo 1 | 1-11 | 1-35
 Mundo 2 | 12-15 | 36-71
-Mundo 3 | 16-21 | 72-100
+Mundo 3 | 16-21 | 72-115
